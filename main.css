@@ -1,4 +1,19 @@
+.header {
+  background-color: blue;
+  text-align: right;
+  padding: 20px;
+}
 
+.header img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.header img {
+  max-width: 100%;
+  height: auto;
+}
 
 h1 {
   font-size: 40px;
